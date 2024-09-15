@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zirconplus.co.th/ThImg/cip/index.html/sitemap.xml
+Sitemap: http://rajahoki79.v8.js.cn/sitemap.xml
